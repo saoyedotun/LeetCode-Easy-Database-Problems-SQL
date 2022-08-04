@@ -1,3 +1,4 @@
+-- MySQL, Oracle PL/SQL
 SELECT MAX(salary) AS SecondHighestSalary
 FROM Employee
 WHERE salary NOT IN
