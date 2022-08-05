@@ -10,6 +10,8 @@ Duplicate Emails [LeetCode 182](https://leetcode.com/problems/duplicate-emails/)
 
 Customers Who Never Order [LeetCode 183](https://leetcode.com/problems/customers-who-never-order/)
 
+Delete Duplicate Emails [LeetCode 196](https://leetcode.com/problems/delete-duplicate-emails/)
+
 
 
 
