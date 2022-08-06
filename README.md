@@ -12,6 +12,8 @@ Customers Who Never Order [LeetCode 183](https://leetcode.com/problems/customers
 
 Delete Duplicate Emails [LeetCode 196](https://leetcode.com/problems/delete-duplicate-emails/)
 
+Rising Temperature [LeetCode 197](https://leetcode.com/problems/rising-temperature/)
+
 
 
 
