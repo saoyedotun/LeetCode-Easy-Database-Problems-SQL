@@ -17,3 +17,5 @@ Rising Temperature [LeetCode 197](https://leetcode.com/problems/rising-temperatu
 Game Play Analysis I [LeetCode 511](https://leetcode.com/problems/game-play-analysis-i/)
 
 Game Play Analysis II [LeetCode 512](https://leetcode.com/problems/game-play-analysis-ii/)
+
+Big Countries [LeetCode 595](https://leetcode.com/problems/big-countries/)
