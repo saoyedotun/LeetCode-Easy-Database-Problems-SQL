@@ -15,3 +15,5 @@ Delete Duplicate Emails [LeetCode 196](https://leetcode.com/problems/delete-dupl
 Rising Temperature [LeetCode 197](https://leetcode.com/problems/rising-temperature/)
 
 Game Play Analysis I [LeetCode 511](https://leetcode.com/problems/game-play-analysis-i/)
+
+Game Play Analysis II [LeetCode 512](https://leetcode.com/problems/game-play-analysis-ii/)
