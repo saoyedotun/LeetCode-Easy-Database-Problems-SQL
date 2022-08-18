@@ -1,6 +1,6 @@
 # LeetCode Easy Database Problems [SQL]
 
-1. Combine Two Tables [LeetCode 175](https://leetcode.com/problems/combine-two-tables/)
+1. [Combine Two Tables](combine-two-tables.sql) [LeetCode 175](https://leetcode.com/problems/combine-two-tables/)
 
 2. Second Highest Salary [LeetCode 176](https://leetcode.com/problems/second-highest-salary/)
 
