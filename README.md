@@ -23,3 +23,5 @@
 11. [Classes More Than 5 Students](classes-more-than-5-students.sql) | [LeetCode 596](https://leetcode.com/problems/classes-more-than-5-students/)
 
 12. [Not Boring Movies](not-boring-movies.sql) | [LeetCode 620](https://leetcode.com/problems/not-boring-movies/)
+
+13. [Swap Salary](swap-salary.sql) | [LeetCode 627](https://leetcode.com/problems/swap-salary/)
