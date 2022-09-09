@@ -19,3 +19,5 @@
 9. [Game Play Analysis II](game-play-analysis-ii.sql) | [LeetCode 512](https://leetcode.com/problems/game-play-analysis-ii/)
 
 10. [Big Countries](big-countries.sql) | [LeetCode 595](https://leetcode.com/problems/big-countries/)
+
+11. [Classes More Than 5 Students](classes-more-than-5-students.sql) | [LeetCode 596](https://leetcode.com/problems/classes-more-than-5-students/)
