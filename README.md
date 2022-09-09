@@ -21,3 +21,5 @@
 10. [Big Countries](big-countries.sql) | [LeetCode 595](https://leetcode.com/problems/big-countries/)
 
 11. [Classes More Than 5 Students](classes-more-than-5-students.sql) | [LeetCode 596](https://leetcode.com/problems/classes-more-than-5-students/)
+
+12. [Not Boring Movies](not-boring-movies.sql) | [LeetCode 620](https://leetcode.com/problems/not-boring-movies/)
