@@ -25,3 +25,5 @@
 12. [Not Boring Movies](not-boring-movies.sql) | [LeetCode 620](https://leetcode.com/problems/not-boring-movies/)
 
 13. [Swap Salary](swap-salary.sql) | [LeetCode 627](https://leetcode.com/problems/swap-salary/)
+
+14. [Product Sales Analysis I](product-sales-analysis-i.sql) | [LeetCode 1068](https://leetcode.com/problems/product-sales-analysis-i/)
