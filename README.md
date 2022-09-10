@@ -27,3 +27,5 @@
 13. [Swap Salary](swap-salary.sql) | [LeetCode 627](https://leetcode.com/problems/swap-salary/)
 
 14. [Product Sales Analysis I](product-sales-analysis-i.sql) | [LeetCode 1068](https://leetcode.com/problems/product-sales-analysis-i/)
+
+15. [Product Sales Analysis II](product-sales-analysis-ii.sql) | [LeetCode 1069](https://leetcode.com/problems/product-sales-analysis-ii/)
