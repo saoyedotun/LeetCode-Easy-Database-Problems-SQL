@@ -31,3 +31,5 @@
 15. [Product Sales Analysis II](product-sales-analysis-ii.sql) | [LeetCode 1069](https://leetcode.com/problems/product-sales-analysis-ii/)
 
 16. [Sales Analysis I](sales-analysis-i.sql) | [LeetCode 1082](https://leetcode.com/problems/sales-analysis-i/)
+
+17. [Sales Analysis II](sales-analysis-ii.sql) | [LeetCode 1083](https://leetcode.com/problems/sales-analysis-ii/)
