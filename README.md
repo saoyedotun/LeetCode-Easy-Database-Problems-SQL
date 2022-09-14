@@ -33,3 +33,5 @@
 16. [Sales Analysis I](sales-analysis-i.sql) | [LeetCode 1082](https://leetcode.com/problems/sales-analysis-i/)
 
 17. [Sales Analysis II](sales-analysis-ii.sql) | [LeetCode 1083](https://leetcode.com/problems/sales-analysis-ii/)
+
+18. [Sales Analysis III](sales-analysis-iii.sql) | [LeetCode 1084](https://leetcode.com/problems/sales-analysis-iii/)
