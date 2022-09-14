@@ -35,3 +35,5 @@
 17. [Sales Analysis II](sales-analysis-ii.sql) | [LeetCode 1083](https://leetcode.com/problems/sales-analysis-ii/)
 
 18. [Sales Analysis III](sales-analysis-iii.sql) | [LeetCode 1084](https://leetcode.com/problems/sales-analysis-iii/)
+
+19. [Reformat Department Table](reformat-department-table.sql) | [LeetCode 1179](https://leetcode.com/problems/reformat-department-table/)
