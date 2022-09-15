@@ -39,3 +39,5 @@
 19. [Reformat Department Table](reformat-department-table.sql) | [LeetCode 1179](https://leetcode.com/problems/reformat-department-table/)
 
 20. [Product's Price for Each Store](products-price-for-each-store.sql) | [LeetCode 1777](https://leetcode.com/problems/products-price-for-each-store/)
+
+[//]: # (21. [Recyclable and Low Fat Products]&#40;products-price-for-each-store.sql&#41; | [LeetCode 1757]&#40;https://leetcode.com/problems/recyclable-and-low-fat-products/&#41;)
