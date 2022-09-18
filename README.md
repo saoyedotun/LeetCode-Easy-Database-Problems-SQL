@@ -41,3 +41,5 @@
 20. [Product's Price for Each Store](products-price-for-each-store.sql) | [LeetCode 1777](https://leetcode.com/problems/products-price-for-each-store/)
 
 21. [Recyclable and Low Fat Products](recyclable-and-low-fat-products.sql) | [LeetCode 1757](https://leetcode.com/problems/recyclable-and-low-fat-products/)
+
+22. [Warehouse Manager](warehouse-manager.sql) | [LeetCode 1571](https://leetcode.com/problems/warehouse-manager/)
