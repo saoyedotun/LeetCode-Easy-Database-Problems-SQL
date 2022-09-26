@@ -43,3 +43,5 @@
 21. [Recyclable and Low Fat Products](recyclable-and-low-fat-products.sql) | [LeetCode 1757](https://leetcode.com/problems/recyclable-and-low-fat-products/)
 
 22. [Warehouse Manager](warehouse-manager.sql) | [LeetCode 1571](https://leetcode.com/problems/warehouse-manager/)
+
+23. [Average Time of Process per Machine](warehouse-manager.sql) | [LeetCode 1661](https://leetcode.com/problems/average-time-of-process-per-machine/)
