@@ -45,3 +45,5 @@
 22. [Warehouse Manager](warehouse-manager.sql) | [LeetCode 1571](https://leetcode.com/problems/warehouse-manager/)
 
 23. [Average Time of Process per Machine](warehouse-manager.sql) | [LeetCode 1661](https://leetcode.com/problems/average-time-of-process-per-machine/)
+
+23. [Top Travellers](top-travellers.sql) | [LeetCode 1407](https://leetcode.com/problems/top-travellers/)
