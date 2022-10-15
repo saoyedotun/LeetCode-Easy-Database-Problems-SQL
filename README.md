@@ -46,4 +46,6 @@
 
 23. [Average Time of Process per Machine](warehouse-manager.sql) | [LeetCode 1661](https://leetcode.com/problems/average-time-of-process-per-machine/)
 
-23. [Top Travellers](top-travellers.sql) | [LeetCode 1407](https://leetcode.com/problems/top-travellers/)
+24. [Top Travellers](top-travellers.sql) | [LeetCode 1407](https://leetcode.com/problems/top-travellers/)
+ 
+25. [Find Total Time Spent by Each Employee](average-time-of-process-per-machine.sql) | [LeetCode 1741](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)
